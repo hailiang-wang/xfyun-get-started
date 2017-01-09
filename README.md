@@ -8,4 +8,4 @@ cd ../../bin
 ./asr_sample
 ```
 
-![]()
+![img](https://github.com/Samurais/xfyun-get-started/blob/master/docs/asr_sample.st.png)
